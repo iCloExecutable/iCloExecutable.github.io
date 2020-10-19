@@ -1,0 +1,18 @@
+useDatabase(iClo's GitHub server)
+useDatabase(github)
+useDatabase(suscode1.1)
+SatelliteConnector;
+//Uses a database
+new (Connect;)
+connect.use h0bin connector
+connect.server(localhost:1311)
+usecodeFromfile(icloexecutable.github.io/satelliteapp/placecode.php)
+server.placecode(icloexecutable.github.io/satelliteserver/connect.php)
+//Tries to run server-sided apps
+timeout -10
+usecodeFromfile(animestream.gq/satelliteapp/connectorupd.php)
+//opens the file
+useFileonboot(satellineconnect.exe , usecodeFromfile(icloexecutable.github.io/satelliteapp/makeUseofapp.php))
+if not 
+useFile(error.php)
+if error.php not found use satellineconnect.exe , inGamefiles(error.php1)
