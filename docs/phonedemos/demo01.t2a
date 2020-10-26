@@ -1,4 +1,7 @@
-Welcome to your new iCloExecutable phone!
+doctype t2a
 
-The phone is a Refurbished Samsung Galaxy A7 (2018)
-So.... Enjoy
+host demo01
+
+connect https://icloexecutable.github.io/h0bin/h0bin-config.t2a
+copy h0bin@h0bin-private 
+h0bin admin demo01
